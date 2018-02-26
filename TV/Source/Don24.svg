@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11571" width="211.67mm" height="88.739mm" version="1.1" viewBox="0 0 211.67 88.739" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs11565">
+  <linearGradient id="linearGradient4542" x1="131.84" x2="164.09" y1="136.67" y2="80.807" gradientUnits="userSpaceOnUse">
+   <stop id="stop4536" stop-color="#e53754" offset="0"/>
+   <stop id="stop4538" stop-color="#e84a45" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4550" x1="-25.518" x2="99.694" y1="130.21" y2="85.848" gradientUnits="userSpaceOnUse">
+   <stop id="stop4544" stop-color="#276ab2" offset="0"/>
+   <stop id="stop4546" stop-color="#20a9ca" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata11568">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(25.518 -63.662)">
+  <path id="path1220" d="m147.72 63.662-38.422 22.184v44.372l38.422 22.184 38.426-22.184v-44.372z" fill="url(#linearGradient4542)"/>
+  <g id="g4534" fill="url(#linearGradient4550)">
+   <path id="path1224" d="m99.694 85.848h-11.035v16.668h-10.144v-16.668h-11.035v44.367h11.035v-16.668h10.144v16.668h11.035z" fill-rule="evenodd"/>
+   <path id="path1228" d="m57.721 85.848h-19.406l-12.807 7.3931v36.974h19.406l12.807-7.3931zm-21.179 11.035h10.148v22.302h-10.148z" fill-rule="evenodd"/>
+   <path id="path1232" d="m-6.3095 85.847-12.812 7.3974v25.939h-6.3971v11.03h45.017v-11.03h-6.4015v-33.337zm-1.777 11.241h10.148v22.096h-10.148z"/>
+  </g>
+  <path id="path1236" d="m145 130.28v-6.9762h-18.687v-11.833h18.687v-25.558h-25.909v6.8666h18.932v11.82h-18.932v25.68zm31.349 0v-44.367h-7.1605v18.687h-11.588v-18.687h-7.0991v25.558h18.687v18.81z" fill="#fff"/>
+ </g>
+</svg>

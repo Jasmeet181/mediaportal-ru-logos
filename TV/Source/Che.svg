@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Слой_1" width="149.55" height="85.3" data-name="Слой 1" version="1.1" viewBox="0 0 149.55 85.3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata25">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>RGB_Che2_1</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <style id="style2">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#46c8f5;}.cls-4{fill:#fff;}</style>
+  <clipPath id="clip-path" transform="translate(0)">
+   <rect id="rect4" class="cls-1" width="209.55" height="209.55" fill="none"/>
+  </clipPath>
+ </defs>
+ <title id="title9">RGB_Che2_1</title>
+ <path id="path13" class="cls-3" d="m85.3 85.21c-14.88-8-24.08-23.35-24.08-42.57 0-18.68 9.19-34.25 23.38-42.46h-33.36v33.79c-3.3 2.51-7.54 3.3-12.26 3.3-6.6 0-9-4.56-9-13v-24h-29.98v33c0 18.23 12.89 28.45 30.17 28.45 6 0 15.87-1.41 21.06-3.77v27.35z" fill="#46c8f5"/>
+ <path id="path15" class="cls-4" d="m67.29 42.64c0-23.8 17-42.64 41.13-42.64 28.17 0 41.13 20.64 41.13 44.6 0 1.81 0 3.92-0.15 5.88h-54.54c2.26 8.89 8.74 13.41 17.63 13.41 6.78 0 12.2-2.56 18.08-8.29l15.82 13.11c-7.83 9.94-19.13 16.57-35.41 16.57-25.61 0-43.69-17-43.69-42.64m55.45-6.78c-1.05-9-6.33-14.76-14.16-14.76-7.53 0-12.66 5.87-14.16 14.76z" fill="#fff"/>
+</svg>

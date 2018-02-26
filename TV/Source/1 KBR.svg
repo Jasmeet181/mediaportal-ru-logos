@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg28" width="600pt" height="310.65pt" version="1.1" viewBox="0 0 600 310.65" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs32">
+  <linearGradient id="linearGradient849">
+   <stop id="stop845" stop-color="#2cae28" offset="0"/>
+   <stop id="stop855" stop-color="#63bc2e" offset=".3"/>
+   <stop id="stop847" stop-color="#2cae28" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient853" x1="154.33" x2="176.51" y1="288.35" y2="316.02" gradientTransform="matrix(1.9562 0 0 1.9562 -276 -314.58)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient849"/>
+  <linearGradient id="linearGradient863" x1="219.07" x2="267.18" y1="329.13" y2="340.27" gradientUnits="userSpaceOnUse">
+   <stop id="stop857" stop-color="#d8e5ee" offset="0"/>
+   <stop id="stop865" stop-color="#fff" offset=".5"/>
+   <stop id="stop859" stop-color="#d8e5ee" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient873" cx="241.2" cy="280.72" r="60.147" gradientTransform="matrix(-1.4347 1.1593 -2.0666 -2.5575 1207.5 676.84)" gradientUnits="userSpaceOnUse">
+   <stop id="stop867" stop-color="#94bcf0" offset="0"/>
+   <stop id="stop869" stop-color="#1446a9" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient892" x1="269.23" x2="419.96" y1="256.33" y2="304.27" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient849"/>
+ </defs>
+ <g id="#82ade0ff" transform="matrix(1.9562 0 0 1.9562 -276 -314.58)">
+  <path id="path5" transform="scale(.75)" d="m308.41 214.41-108.59 74.719-9.0938 28.76 41.201-29.066-29.336 91.931-14.478 45.369h50.933l46.666-142.44z" fill="url(#radialGradient873)" stroke-width="1.3333"/>
+ </g>
+ <g id="#ffffffff" transform="matrix(1.9562 0 0 1.9562 -276 -314.58)">
+  <path id="path2" transform="scale(.75)" d="m285.72 283.69-66.647 45.443-16.474 51.626 64.585-40.491z" fill="url(#linearGradient863)" stroke-width="1.3333"/>
+ </g>
+ <g id="g884" transform="matrix(1.9562 0 0 1.9562 -276 -314.58)" fill="url(#linearGradient892)">
+  <path id="path12" d="m232.64 244.4c4.71 0.04 9.43-0.07 14.14 0.03-7.51 23.56-15.15 47.09-22.74 70.64-0.42 1.39-0.76 2.82-1.07 4.25-4.85 0.45-9.74 0.31-14.59 0.06 8.23-24.95 16.18-49.99 24.26-74.98z"/>
+  <path id="path14" d="m282.77 244.49c5.82-0.14 11.66-0.13 17.48 0-14.22 10.76-28.83 21-43.17 31.61-1.72 1.4-3.56 2.82-4.62 4.81-0.65 2.13 0.48 4.19 1.73 5.83 8.66 10.92 17.29 21.88 26.05 32.72-6.06 0-12.12 0.24-18.18-0.09-7.06-10.65-15.59-20.29-22.63-30.96-2.98-5.41 0.56-11.6 5-14.93 12.64-9.85 25.72-19.12 38.34-28.99z"/>
+  <path id="path16" d="m304.56 254.48c1.77-5.38 6.67-10.01 12.56-10.03l53.73 0.05-3.51 11.07-45.34 0.06c-2.6-0.27-4.37 2.03-5.02 4.28-1.69 5.24-3.57 10.524-4.95 15.854h36.201c2.709 0.20123 5.3422 0.87869 7.7686 2.196 4.68 2.69 3.96 8.6 3.44 13.15-1.68 7.6-4.25 15.24-9.1 21.44-4.28 4.82-10.94 7.15-17.29 6.98l-40.04-0.07c-2.42 0.1-5.16-0.73-6.38-2.99-0.68-2.11-0.42-4.43 0.16-6.54l17.77-55.45m0.86196 53.83 28.658-2.6e-4c6.77-1.66 9.32-9.24 10.33-15.36 0.64-2.78-1.4-5.975-4.48-5.575h-32.13l-5.4285 18.998c-0.9538 2.1605 1.9045 1.9045 3.0504 1.9376z"/>
+  <path id="path18" d="m382.78 253.65c1.92-5.41 7.47-9.25 13.21-9.18h40.03c3.4953-0.0461 7.2208 1.2769 9.5625 3.892 1.2476 1.3746 1.7358 2.7491 1.9943 4.3992 0.61985 4.4823-0.0765 9.0942-1.5069 13.359-2.14 7.61-5.29 15.3-11.07 20.88-4.23 4.08-10.21 5.91-16 5.81l-34.48-0.12-8.95 26.92-14.17-0.14 21.38-65.82m15.611 1.98c-1.934 0-2.4888 0.46599-3.721 4.73l-6.68 21.19 29.1 0.02c4.61 0.19 9.06-2.63 11.02-6.79 2.1043-4.1676 4.0678-8.9453 3.7442-13.674 0.0648-3.8819-3.6353-5.4432-6.8242-5.4256-9.08-0.06-17.559-0.05-26.639-0.05z"/>
+ </g>
+ <path id="path20" d="m116 184.65-41.271 125.97h-74.728l21.242-66.564z" fill="url(#linearGradient853)" stroke-width="1.9562"/>
+</svg>
