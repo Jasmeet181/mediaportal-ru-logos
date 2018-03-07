@@ -1,44 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
 <!-- Creator: CorelDRAW X6 -->
-<svg width="99.111mm" height="37.131mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 9930 3720" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style type="text/css">
-   <![CDATA[
-    .fil1 {fill:#0094D9}
-    .fil5 {fill:#B6036C}
-    .fil4 {fill:#DB861E}
-    .fil6 {fill:#EC0477}
-    .fil2 {fill:#F79A1B}
-    .fil0 {fill:#FFC211}
-    .fil3 {fill:#FFCB62}
-    .fil7 {fill:#727271;fill-rule:nonzero}
-   ]]>
-  </style>
- </defs>
- <g id="Layer_x0020_1">
-  <g id="_312606688">
-   <path class="fil0" d="m8076 1907-2-119c-161-38-759-110-800-267l-335-590-224-109 567 862 794 224z"/>
-   <polygon class="fil0" points="8598 2075 9606 2333 8227 1591"/>
-   <polygon class="fil1" points="7414 777 8227 1591 8412 537 7979 0"/>
-   <polygon class="fil2" points="8306 1923 7414 777 7402 789 7316 1619"/>
-   <polygon class="fil3" points="8333 1449 8227 1591 8333 1661 9606 2333 8440 1378"/>
-   <polygon class="fil4" points="8309 1937 8699 2064 7414 777"/>
-   <polygon class="fil0" points="7316 1619 7402 789 7061 637"/>
-   <polygon class="fil5" points="8227 1591 9930 0 7979 0"/>
-   <polygon class="fil6" points="6938 930 6675 638 6499 1104"/>
-   <polygon class="fil6" points="8342 1483 9930 0 7979 0"/>
-   <polygon class="fil1" points="9371 3720 9606 2333 7950 1810"/>
-   <polygon class="fil3" points="7316 1619 7061 637 6675 638"/>
-    <polygon class="fil7" points="704 3240 537 3240 185 2813 129 2872 129 3240 0 3240 0 2320 129 2320 129 2745 526 2320 680 2320 281 2731"/>
-    <path id="1" class="fil7" d="m1464 2426c37 40 65 90 86 150 20 60 31 128 31 204 0 75-10 142-30 202s-49 110-86 151c-39 43-85 74-138 95-52 20-110 31-174 31-66 0-124-11-177-31-52-21-98-52-135-94-37-41-66-91-86-151s-30-127-30-203c0-77 10-145 30-204 20-58 49-109 86-151 37-41 82-72 135-93s111-32 176-32c66 0 125 11 178 33s98 53 134 92zm-18 354c0-61-7-114-21-161s-33-86-58-117c-26-32-56-55-93-71-36-16-77-24-122-24-47 0-88 8-122 23-35 15-66 39-93 72-25 31-45 70-59 118-13 47-20 101-20 160 0 120 27 213 80 276 53 64 125 96 214 96s161-32 214-96 79-156 79-276z"/>
-    <polygon id="2" class="fil7" points="2420 3240 2291 3240 2291 2790 1849 2790 1849 3240 1720 3240 1720 2320 1849 2320 1849 2681 2291 2681 2291 2320 2420 2320"/>
-    <polygon id="3" class="fil7" points="2843 3240 2843 2429 2519 2429 2519 2320 3296 2320 3296 2429 2972 2429 2972 3240"/>
-    <polygon id="4" class="fil7" points="4086 3240 3957 3240 3957 2510 3523 3240 3392 3240 3392 2320 3521 2320 3521 3039 3949 2320 4086 2320"/>
-    <polygon id="5" class="fil7" points="4982 3240 4853 3240 4853 2790 4411 2790 4411 3240 4282 3240 4282 2320 4411 2320 4411 2681 4853 2681 4853 2320 4982 2320"/>
-    <polygon id="6" class="fil7" points="5179 3240 5179 2320 5783 2320 5783 2429 5308 2429 5308 2681 5751 2681 5751 2790 5308 2790 5308 3131 5783 3131 5783 3240"/>
-    <polygon id="7" class="fil7" points="6624 3240 6495 3240 6495 2790 6053 2790 6053 3240 5924 3240 5924 2320 6053 2320 6053 2681 6495 2681 6495 2320 6624 2320"/>
-    <polygon id="8" class="fil7" points="7047 3240 7047 2429 6723 2429 6723 2320 7499 2320 7499 2429 7175 2429 7175 3240"/>
-  </g>
- </g>
-</svg>
+<svg id="svg42" width="99.111mm" height="37.131mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 9930 3720" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata id="metadata46"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/></cc:Work></rdf:RDF></metadata>
+		   <g id="g919"><path id="path6" class="fil0" d="m8076 1907-2-119c-161-38-759-110-800-267l-335-590-224-109 567 862 794 224z" fill="#ffc211"/><polygon id="polygon8" class="fil0" points="9606 2333 8227 1591 8598 2075" fill="#ffc211"/><polygon id="polygon10" class="fil1" points="7414 777 8227 1591 8412 537 7979 0" fill="#0094d9"/><polygon id="polygon12" class="fil2" points="8306 1923 7414 777 7402 789 7316 1619" fill="#f79a1b"/><polygon id="polygon14" class="fil3" points="8440 1378 8333 1449 8227 1591 8333 1661 9606 2333" fill="#ffcb62"/><polygon id="polygon16" class="fil4" points="8699 2064 7414 777 8309 1937" fill="#db861e"/><polygon id="polygon18" class="fil0" points="7402 789 7061 637 7316 1619" fill="#ffc211"/><polygon id="polygon20" class="fil5" points="9930 0 7979 0 8227 1591" fill="#b6036c"/><polygon id="polygon22" class="fil6" points="6675 638 6499 1104 6938 930" fill="#ec0477"/><polygon id="polygon24" class="fil6" points="9930 0 7979 0 8342 1483" fill="#ec0477"/><polygon id="polygon26" class="fil1" points="9606 2333 7950 1810 9371 3720" fill="#0094d9"/><polygon id="polygon28" class="fil3" points="7061 637 6675 638 7316 1619" fill="#ffcb62"/></g><g id="g905" fill="#fff" fill-rule="nonzero"><polygon id="polygon30" class="fil7" points="129 3240 0 3240 0 2320 129 2320 129 2745 526 2320 680 2320 281 2731 704 3240 537 3240 185 2813 129 2872"/><path id="1" class="fil7" d="m1464 2426c37 40 65 90 86 150 20 60 31 128 31 204 0 75-10 142-30 202s-49 110-86 151c-39 43-85 74-138 95-52 20-110 31-174 31-66 0-124-11-177-31-52-21-98-52-135-94-37-41-66-91-86-151s-30-127-30-203c0-77 10-145 30-204 20-58 49-109 86-151 37-41 82-72 135-93s111-32 176-32c66 0 125 11 178 33s98 53 134 92zm-18 354c0-61-7-114-21-161s-33-86-58-117c-26-32-56-55-93-71-36-16-77-24-122-24-47 0-88 8-122 23-35 15-66 39-93 72-25 31-45 70-59 118-13 47-20 101-20 160 0 120 27 213 80 276 53 64 125 96 214 96s161-32 214-96 79-156 79-276z"/><polygon id="2" class="fil7" points="1849 3240 1720 3240 1720 2320 1849 2320 1849 2681 2291 2681 2291 2320 2420 2320 2420 3240 2291 3240 2291 2790 1849 2790"/><polygon id="3" class="fil7" points="3296 2320 3296 2429 2972 2429 2972 3240 2843 3240 2843 2429 2519 2429 2519 2320"/><polygon id="4" class="fil7" points="3392 3240 3392 2320 3521 2320 3521 3039 3949 2320 4086 2320 4086 3240 3957 3240 3957 2510 3523 3240"/><polygon id="5" class="fil7" points="4411 3240 4282 3240 4282 2320 4411 2320 4411 2681 4853 2681 4853 2320 4982 2320 4982 3240 4853 3240 4853 2790 4411 2790"/><polygon id="6" class="fil7" points="5308 2429 5308 2681 5751 2681 5751 2790 5308 2790 5308 3131 5783 3131 5783 3240 5179 3240 5179 2320 5783 2320 5783 2429"/><polygon id="7" class="fil7" points="6053 3240 5924 3240 5924 2320 6053 2320 6053 2681 6495 2681 6495 2320 6624 2320 6624 3240 6495 3240 6495 2790 6053 2790"/><polygon id="8" class="fil7" points="7499 2320 7499 2429 7175 2429 7175 3240 7047 3240 7047 2429 6723 2429 6723 2320"/></g></svg>

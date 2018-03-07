@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg12" width="402.17pt" height="137.21pt" version="1.1" viewBox="0 0 402.17 137.21" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata18">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs16">
+  <radialGradient id="radialGradient856" cx="444.9" cy="-68.811" r="234.25" gradientTransform="matrix(-1.5546 .8544 -1.2456 -2.2664 1065.6 -477.78)" gradientUnits="userSpaceOnUse">
+   <stop id="stop830" stop-color="#ea4a00" offset="0"/>
+   <stop id="stop836" stop-color="#e70f04" offset=".04739"/>
+   <stop id="stop840" stop-color="#7f536a" offset=".38599"/>
+   <stop id="stop838" stop-color="#0567b2" offset=".50552"/>
+   <stop id="stop828" stop-color="#01589b" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient953" x1="34.41" x2="502.89" y1="143.36" y2="143.36" gradientUnits="userSpaceOnUse">
+   <stop id="stop945" stop-color="#ea4a00" offset="0"/>
+   <stop id="stop955" stop-color="#ccd1d7" offset=".63814"/>
+   <stop id="stop947" stop-color="#ea4a00" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient973" x1="53.436" x2="555.27" y1="134.04" y2="86.382" gradientUnits="userSpaceOnUse">
+   <stop id="stop967" stop-color="#d2dde3" offset="0"/>
+   <stop id="stop977" stop-color="#e0e8eb" offset=".18303"/>
+   <stop id="stop975" stop-color="#c9d1d4" offset=".50737"/>
+   <stop id="stop979" stop-color="#dbdfe0" offset=".71853"/>
+   <stop id="stop969" stop-color="#fcfcfc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="#ba282dff-0" transform="matrix(.75083 0 0 .75083 -25.836 -39.036)" fill="url(#linearGradient953)">
+  <path id="path9-4" d="m414 53.18c13.517-0.87613 26.083-2.0618 36.1-0.2 13.18 1.79 92.111 9.47 100.72 19.4 13.34 15.42 20.05 36.19 19.14 56.49-1.02 16.63-6.7 33-16.46 46.53-8.78 11.94-21.23 21.51-35.7 25.31-12.92 3.53-26.43 2.57-39.66 2.8h-34.03c-1.96 0.02-3.7 1.16-5.37 2.03l-47 25.95c-3.4501 1.88-5.1388 3.24-10.53 3.24h-292.22c-5.4634-0.0927-8.8579-2.076-8.9194-7.1052v-102.28h-37.027c-7.3698 0.25168-8.6328-3.8928-8.6328-9.2811 0.06-9.7-0.02-19.4 0.04-29.09 0-4.7113 1.2987-8.0358 6.58-8.51 68.714 21.396 117.04 1.8824 167.5-11.049 1.649-0.09802 2.9836 0.01019 4.0561 0.29941l50.165 3.02c1.86-3.21 3.78-7.7 8.22-7.47 50.497 5.8036 98.151 2.5663 143.03-10.08" fill="url(#linearGradient973)"/>
+ </g>
+ <g id="#ba282dff" transform="matrix(.75083 0 0 .75083 -25.836 -39.038)" fill="url(#radialGradient856)">
+  <path id="path9" d="m414 53.18c13.517-0.87613 26.083-2.0618 36.1-0.2 13.18 1.79 24.96 9.47 33.57 19.4 13.34 15.42 20.05 36.19 19.14 56.49-1.02 16.63-6.7 33-16.46 46.53-8.78 11.94-21.23 21.51-35.7 25.31-12.92 3.53-26.43 2.57-39.66 2.8h-34.03c-1.96 0.02-3.7 1.16-5.37 2.03l-47 25.95c-3.4501 1.88-5.1388 3.24-10.53 3.24h-44.867c-3.076 0-4.1826-2.5-5.1326-3.77l-31.428-52.952-15.912 0.71225-0.24 50.08c-0.14 2.85-1.1972 5.93-5.44 5.93h-41c-3.35 0.13-5.04-3.82-4.76-6.71l0.0298-107.94-36.89 1.8 0.03 106.24c0 4.6183-2.0065 6.4736-7.37 6.6097h-32.091c-5.4634-0.0927-8.8579-2.076-8.9194-7.1052v-103.83l-37.027 1.5508c-7.3698 0.25168-8.6328-3.8924-8.6328-9.2808 0.06-9.7-0.02-19.4 0.04-29.09 0-4.7113 1.2987-8.0358 6.58-8.51 55.779-3.1796 111.85-7.9809 167.5-11.049 6.3733-0.37885 8.0506 2.3231 8.0506 6.6494 0.06 16.39-0.27 32.79 0.14 49.18l16.75-0.84 29.28-51.67c1.86-3.21 3.78-7.7 8.22-7.47 47.64-3.72 95.35-6.77 143.03-10.08m-136.02 93.84c-0.84 1.24-0.89 2.73 0 3.98l38.515 64.03v-133.97zm134-38.1-36.52 1.66v38.18l43.6-1.18c7.1812-0.3201 7.81-0.36 11.16-2.39 11.18-6.76 12.86-24.76 2.84-33.24-5.9-4.92-9.5557-3.6193-21.08-3.03z" fill="url(#radialGradient856)"/>
+ </g>
+</svg>
