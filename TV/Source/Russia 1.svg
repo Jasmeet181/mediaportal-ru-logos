@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg id="Layer_1" width="942.94" height="215.49" enable-background="new 0 0 595.28 841.89" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" space="preserve" version="1.1" viewBox="0 0 942.94 215.49" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<svg id="Layer_1" width="942.91" height="215.49" enable-background="new 0 0 595.28 841.89" space="preserve" version="1.1" viewBox="0 0 942.91 215.49" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <link id="dark-mode" href="" rel="stylesheet" type="text/css"/>
  <style id="dark-mode-custom-style" type="text/css"/>
  <metadata id="metadata3069">
@@ -12,28 +12,20 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
+ <rect id="rect2989" y=".00022888" width="706.64" height="215.21" fill="url(#linearGradient3802)" stroke-width="1.1785"/>
  <defs id="defs3067">
-  <linearGradient id="linearGradient3023" x1="372.72" x2="372.72" y1="221.82" y2="264.53" gradientUnits="userSpaceOnUse" xlink:href="#SVGID_1_"/>
-  <linearGradient id="linearGradient3025" x1="273.13" x2="273.13" y1="196.73" y2="290.78" gradientUnits="userSpaceOnUse" xlink:href="#SVGID_2_"/>
+  <linearGradient id="linearGradient3802" x1="599.75" x2="599.75" y1="181.46" y2="1.0187" gradientTransform="matrix(1.1777 0 0 1.1792 5.6582e-6 .00021431)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3798" stop-color="#0029a6" offset="0"/>
+   <stop id="stop3800" stop-color="#0069e4" offset="1"/>
+  </linearGradient>
  </defs>
- <g id="g3001" transform="matrix(4.8205 0 0 4.8205 -19.282 -19.282)">
-  <g id="g3029" transform="translate(-195.84 -216.75)">
-   <linearGradient id="SVGID_1_" x1="372.72" x2="372.72" y1="221.82" y2="264.53" gradientUnits="userSpaceOnUse">
-    <stop id="stop3032" stop-color="#E41E26" offset="0"/>
-    <stop id="stop3034" stop-color="#BC2025" offset="1"/>
-   </linearGradient>
-   <rect id="rect3036" x="350" y="220.75" width="45.445" height="44.702" fill="url(#linearGradient3023)"/>
-   <polygon id="polygon3038" points="361.12 233.14 361.12 242.17 377.97 233.76 377.97 224.73" fill="#fff"/>
-   <polygon id="polygon3040" points="369.56 260.39 377.97 260.39 377.97 235.65 369.56 239.85" fill="#fff"/>
-   <linearGradient id="SVGID_2_" x1="273.13" x2="273.13" y1="196.73" y2="290.78" gradientUnits="userSpaceOnUse">
-    <stop id="stop3043" stop-color="#5481C1" offset="0"/>
-    <stop id="stop3045" stop-color="#4C75B8" offset=".1863"/>
-    <stop id="stop3047" stop-color="#375CA5" offset=".5473"/>
-    <stop id="stop3049" stop-color="#1E398D" offset="1"/>
-   </linearGradient>
-   <rect id="rect3051" x="199.84" y="220.75" width="146.59" height="44.645" fill="url(#linearGradient3025)"/>
+ <rect id="rect3036" x="723.85" width="219.07" height="215.49" fill="#c40000" stroke-width="4.8205"/>
+ <g id="g894" fill="#fff">
+  <g id="g882">
+   <polygon id="polygon3038" transform="matrix(4.8205 0 0 4.8205 -963.33 -1064.1)" points="377.97 233.76 377.97 224.73 361.12 233.14 361.12 242.17"/>
+   <polygon id="polygon3040" transform="matrix(4.8205 0 0 4.8205 -963.33 -1064.1)" points="377.97 235.65 369.56 239.85 369.56 260.39 377.97 260.39"/>
   </g>
-  <g id="text3008" fill="#fff" font-family="Russia" font-size="35px" font-weight="bold" letter-spacing="-.33px" word-spacing="0px" style="line-height:125%">
+  <g id="text3008" transform="matrix(4.8205 0 0 4.8205 -19.282 -19.282)" font-size="35px" font-weight="bold" letter-spacing="-.33px" word-spacing="0px">
    <path id="path3026" d="m18.187 38.244v-23.66h8.4349c2.31 2.4e-5 4.1824 0.74076 5.6172 2.2222 1.4348 1.4815 2.1522 3.2606 2.1523 5.3374-1.9e-5 2.0768-0.71156 3.8385-2.1346 5.285-1.4231 1.4466-3.3014 2.1699-5.6348 2.1699h-3.2898v8.6453zm5.1451-12.915h3.1146c0.81674 1.3e-5 1.4759-0.29176 1.9776-0.87532 0.50164-0.58353 0.75247-1.3536 0.75249-2.3103-1.3e-5 -0.95666-0.25084-1.7266-0.75249-2.3098-0.50167-0.58317-1.1609-0.87477-1.9776-0.87479h-3.1146z"/>
    <path id="path3028" d="m36.813 28.934v-5.0052c-2e-6 -3.1267 0.88084-5.5417 2.6425-7.245 1.7617-1.7033 3.9958-2.5549 6.7024-2.5549 2.7301 2.4e-5 4.976 0.85167 6.7377 2.5549 1.7617 1.7033 2.6425 4.1183 2.6425 7.245v5.0052c-2.1e-5 3.1495-0.88086 5.5644-2.6425 7.2445-1.7617 1.6801-4.0076 2.5202-6.7377 2.5202-2.7066-1e-6 -4.9408-0.84577-6.7024-2.5373-1.7617-1.6915-2.6425-4.1007-2.6425-7.2274zm9.3449 5.3897c2.8234 4e-6 4.2351-1.9251 4.2351-5.7753v-4.2693c-1.6e-5 -3.8502-1.4117-5.7753-4.2351-5.7753-2.7999 2e-5 -4.1998 1.9251-4.1998 5.7753v4.2693c-7e-6 3.8502 1.3999 5.7753 4.1998 5.7753z"/>
    <path id="path3030" d="m74.409 33.379 0.97946 4.2351c-2.2395 0.72347-4.5142 1.0852-6.8242 1.0852-2.8939-1e-6 -5.2274-0.8342-7.0004-2.5026-1.7731-1.6684-2.6596-4.0777-2.6596-7.2279v-5.1099c-2e-6 -3.1495 0.88653-5.5585 2.6596-7.2269 1.7731-1.6684 4.1065-2.5026 7.0004-2.5026 2.31 2.4e-5 4.5847 0.36176 6.8242 1.0852l-0.97946 4.1998c-1.9604-0.60667-3.8972-0.91001-5.8105-0.91003-3.0327 2e-5 -4.5491 1.9251-4.5491 5.7753v4.234c-7e-6 2.0536 0.39074 3.5355 1.1723 4.4455 0.7815 0.91004 1.9071 1.3651 3.3768 1.3651 2.0536 4e-6 3.9905-0.31509 5.8105-0.94528z"/>
