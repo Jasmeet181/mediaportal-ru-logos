@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg20" enable-background="new 0 0 627.8 391.3" version="1.1" viewBox="0 0 627.8 391.3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata26">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <linearGradient id="a" x1="259.89" x2="367.22" y1="-368.44" y2="-430.41" gradientTransform="matrix(4.2704 0 0 -4.2704 -894.78 -2149)" gradientUnits="userSpaceOnUse">
+  <stop id="stop2" stop-color="#fbe467" offset="0"/>
+  <stop id="stop4" stop-color="#d39e30" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x1="35.047" x2="115.39" y1="405.33" y2="451.71" gradientTransform="matrix(8.6826 0 0 -8.6826 -340.17 3817.6)" gradientUnits="userSpaceOnUse">
+  <stop id="stop7" stop-color="#d39e30" offset="0"/>
+  <stop id="stop9" stop-color="#fbe467" offset="1"/>
+ </linearGradient>
+ <g id="g16" transform="matrix(1.2442 0 0 1.2442 -187.1 894.68)">
+  <path id="path12" d="m150.4-529.5h504.5v124.9h-504.5z" fill="#111"/>
+  <path id="path14" d="m514.6-505.3h51.5v22.3h-28.1v4.8h18.2l-5.8 22.3h-12.4v4.5h28.1v22.3h-51.5v-76.2zm93.4 22.3h-13v15.8h13v-15.8zm-13.4-22.3h36.4v60.1h-36.4v15.8h-23.3v-76.2h23.3v0.3zm-109.5 54.2h-13v-15.8h13v15.8zm-13 22h36.4v-60.1h-36.4v-15.8h-23.3v76.2h23.3v-0.3zm-52.9-76.2h23.3v76.2h-23.3v-42.2l-16.5 24-16.5-24v42.2h-23.3v-76.2h23.3l16.5 24 16.5-24zm-142.4 22.3h-13v15.8h13v-15.8zm-13.1-22.3h36.4v60.1h-36.4v15.8h-23.3v-76.2h23.3v0.3zm-89.2 0h59.7v76.2h-23.3v-53.9h-13v53.9h-23.3l-0.1-76.2zm182.9 54.2v22.3h-51.5v-76.5h51.5v22.3h-28.1v4.8h18.2l-5.8 22.3h-12.4v4.5h28.1v0.3z" fill="url(#a)"/>
+ </g>
+ <path id="path18" d="m351.6 57.3v136.3h-59v-40.8h-65.1l-26 39.9h-59v-106.7l-41.7 60.8-41.8-60.8v106.8h-59v-192.8h59l41.7 60.8 41.7-60.8h59v90.3l57.3-90.3h277v96.4h33v-96.4h59v192.8h-59v-39.9h-92v-95.6h-32.1v136.3h-59v-136.3h-34zm-88.5 39.9h29.5v-46l-29.5 46z" fill="url(#b)"/>
+</svg>
