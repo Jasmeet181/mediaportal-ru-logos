@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This discontinued temporary repository contains Russian television channel logos for use with [MediaPortal 1](https://www.team-mediaportal.com/) and the [LogoManager plugin](https://www.team-mediaportal.com/extensions/utilities/logomanager). Source folders contain high quality SVG and PNG logos with dark and light designs. Further development will continue on the [MediaPortal.LogoPack-Russia repository](https://app.assembla.com/spaces/mediaportal/subversion-3/source).
+This intermediate repository contains Russian television channel logos for use with [MediaPortal 1](https://www.team-mediaportal.com/) and the [LogoManager plugin](https://www.team-mediaportal.com/extensions/utilities/logomanager). Source folders contain high quality SVG and PNG logos with dark and light designs. Further development also continues on the [MediaPortal.LogoPack-Russia repository](https://app.assembla.com/spaces/mediaportal/subversion-3/source).
 
 ## Links
 
