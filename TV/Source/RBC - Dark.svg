@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="607.11" height="169.58" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" version="1.1" viewBox="0 0 17134 4786" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="0" x1="1329.2" x2="5809.9" y1="1412.2" y2="5892.9" gradientUnits="userSpaceOnUse">
+  <linearGradient id="b" x1="1329.2" x2="5809.9" y1="1412.2" y2="5892.9" gradientUnits="userSpaceOnUse">
    <stop stop-color="#00808d" offset="0"/>
    <stop stop-color="#00808d" offset=".51"/>
    <stop stop-color="#73c9a6" offset="1"/>
   </linearGradient>
-  <linearGradient id="1" x1="933.1" x2="5413.8" y1="1107.1" y2="5587.8" gradientUnits="userSpaceOnUse">
+  <linearGradient id="a" x1="933.1" x2="5413.8" y1="1107.1" y2="5587.8" gradientUnits="userSpaceOnUse">
    <stop stop-color="#00808d" offset="0"/>
    <stop stop-color="#008893" offset=".102"/>
    <stop stop-color="#25c999" offset=".38"/>
@@ -14,8 +13,8 @@
   </linearGradient>
  </defs>
  <g transform="translate(-933 -1107)">
-  <polygon points="5810 1412 5810 5893 1329 5893" fill="url(#0)"/>
-  <polygon points="933 1107 5414 1107 933 5588" fill="url(#1)"/>
+  <polygon points="5810 1412 5810 5893 1329 5893" fill="url(#b)"/>
+  <polygon points="933 1107 5414 1107 933 5588" fill="url(#a)"/>
   <path d="m6927 1142h1982c646 0 1175 529 1175 1175v741c0 646-529 1175-1175 1175h-1185v1640h-847v-4731h50zm10186 4731h954l-1669-2875 1548-1856h-995l-1768 2198v-2198h-847v4731h847v-1418l693-831 1236 2249zm-5659-4e3h2165v-730h-3012v4730h2032c646 0 1175-529 1175-1175v-470c0-646-529-1175-1175-1175h-1185v-1180zm0 3260v-1339h1090c221 0 402 181 402 402v534c0 221-181 402-402 402h-1090zm-3730-1640h1090c221 0 402-181 402-402v-804c0-221-181-402-402-402h-1090v1609z" fill="#1f191a"/>
  </g>
 </svg>
