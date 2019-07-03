@@ -1,20 +1,18 @@
-<svg id="b" version="1.1" viewBox="0 0 2249 1255" xmlns="http://www.w3.org/2000/svg">
- <link id="c" href="" rel="stylesheet" type="text/css"/>
- <style id="d" type="text/css"/>
- <defs id="e">
+<svg version="1.1" viewBox="0 0 2249 1255" xmlns="http://www.w3.org/2000/svg">
+ <link href="" rel="stylesheet" type="text/css"/>
+ <style type="text/css"/>
+ <defs>
   <linearGradient id="a" x1="-522.72" x2="-522.72" y1="-379.49" y2="159.49" gradientTransform="translate(412.72 632.72)" gradientUnits="userSpaceOnUse">
-   <stop id="f" stop-color="#f3f2f3" offset="0"/>
-   <stop id="g" stop-color="#676767" offset="1"/>
+   <stop stop-color="#f3f2f3" offset="0"/>
+   <stop stop-color="#676767" offset="1"/>
   </linearGradient>
  </defs>
- <g id="h" transform="translate(673.5 417.27)" shape-rendering="auto" text-rendering="auto">
-  <path id="i" d="m-338.92-417.27c-103.59 0-198.33 82.707-212.32 185.34l-120.53 884.29c-13.989 102.64 58.209 185.34 161.8 185.34h1750.9c103.59 0 198.33-82.706 212.32-185.34l120.53-884.29c13.989-102.64-58.209-185.34-161.8-185.34h-1750.9zm-0.67841 4.9774h1750.9c100.89 0 171.08 80.4 157.45 180.37l-120.53 884.29c-13.625 99.967-105.73 180.37-206.62 180.37h-1750.9c-100.89 0-171.08-80.4-157.45-180.37l120.53-884.29c13.625-99.967 105.73-180.37 206.62-180.37z" color="#000000" color-rendering="auto" font-family="sans-serif" image-rendering="auto" solid-color="#000000" style="block-progression:tb;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-  <g id="j" transform="matrix(2 0 -.27259 2 813.49 -835.22)">
-   <rect id="k" x="-640" y="210.22" width="1060" height="625" ry="91.429" color="#000000" color-rendering="auto" fill="url(#a)" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
-   <g id="l">
-    <path id="m" d="m169.84 345.22v355h139.86c-1.2664 38.988-33.043 70-72.35 70h-694.7c-39.307 0-71.085-31.012-72.352-70h-0.0606v-355h139.92v355h139.92v-355h139.92v355h139.92v-355h139.92z" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
-    <path id="n" d="m237.35 275.22c39.307 0 71.083 31.012 72.35 70h0.0605v355h-139.92v-355h-139.92v355h-139.92v-355h-139.92v355h-139.92v-355h-139.86c1.2664-38.988 33.044-70 72.352-70h694.7z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
-   </g>
+ <g transform="translate(673.5 417.27)" shape-rendering="auto" text-rendering="auto">
+  <path d="m-338.92-417.27c-103.59 0-198.33 82.707-212.32 185.34l-120.53 884.29c-13.989 102.64 58.209 185.34 161.8 185.34h1750.9c103.59 0 198.33-82.706 212.32-185.34l120.53-884.29c13.989-102.64-58.209-185.34-161.8-185.34h-1750.9zm-0.67841 4.9774h1750.9c100.89 0 171.08 80.4 157.45 180.37l-120.53 884.29c-13.625 99.967-105.73 180.37-206.62 180.37h-1750.9c-100.89 0-171.08-80.4-157.45-180.37l120.53-884.29c13.625-99.967 105.73-180.37 206.62-180.37z" color="#000000" color-rendering="auto" font-family="sans-serif" image-rendering="auto" solid-color="#000000" style="block-progression:tb;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  <g transform="matrix(2 0 -.27259 2 813.49 -835.22)">
+   <rect x="-640" y="210.22" width="1060" height="625" ry="91.429" color="#000000" color-rendering="auto" fill="url(#a)" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <path d="m169.84 345.22v355h139.86c-1.2664 38.988-33.043 70-72.35 70h-694.7c-39.307 0-71.085-31.012-72.352-70h-0.0606v-355h139.92v355h139.92v-355h139.92v355h139.92v-355h139.92z" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <path d="m237.35 275.22c39.307 0 71.083 31.012 72.35 70h0.0605v355h-139.92v-355h-139.92v355h-139.92v-355h-139.92v355h-139.92v-355h-139.86c1.2664-38.988 33.044-70 72.352-70h694.7z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
   </g>
  </g>
 </svg>

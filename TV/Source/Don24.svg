@@ -1,21 +1,21 @@
-<svg id="c" width="211.67mm" height="88.739mm" version="1.1" viewBox="0 0 211.67 88.739" xmlns="http://www.w3.org/2000/svg">
- <defs id="d">
+<svg width="211.67mm" height="88.739mm" version="1.1" viewBox="0 0 211.67 88.739" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="b" x1="131.84" x2="164.09" y1="136.67" y2="80.807" gradientUnits="userSpaceOnUse">
-   <stop id="e" stop-color="#e53754" offset="0"/>
-   <stop id="f" stop-color="#e84a45" offset="1"/>
+   <stop stop-color="#e53754" offset="0"/>
+   <stop stop-color="#e84a45" offset="1"/>
   </linearGradient>
   <linearGradient id="a" x1="-25.518" x2="99.694" y1="130.21" y2="85.848" gradientUnits="userSpaceOnUse">
-   <stop id="g" stop-color="#276ab2" offset="0"/>
-   <stop id="h" stop-color="#20a9ca" offset="1"/>
+   <stop stop-color="#276ab2" offset="0"/>
+   <stop stop-color="#20a9ca" offset="1"/>
   </linearGradient>
  </defs>
- <g id="i" transform="translate(25.518 -63.662)">
-  <path id="j" d="m147.72 63.662-38.422 22.184v44.372l38.422 22.184 38.426-22.184v-44.372z" fill="url(#b)"/>
-  <g id="k" fill="url(#a)">
-   <path id="l" d="m99.694 85.848h-11.035v16.668h-10.144v-16.668h-11.035v44.367h11.035v-16.668h10.144v16.668h11.035z" fill-rule="evenodd"/>
-   <path id="m" d="m57.721 85.848h-19.406l-12.807 7.3931v36.974h19.406l12.807-7.3931zm-21.179 11.035h10.148v22.302h-10.148z" fill-rule="evenodd"/>
-   <path id="n" d="m-6.3095 85.847-12.812 7.3974v25.939h-6.3971v11.03h45.017v-11.03h-6.4015v-33.337zm-1.777 11.241h10.148v22.096h-10.148z"/>
+ <g transform="translate(25.518 -63.662)">
+  <path d="m147.72 63.662-38.422 22.184v44.372l38.422 22.184 38.426-22.184v-44.372z" fill="url(#b)"/>
+  <g fill="url(#a)">
+   <path d="m99.694 85.848h-11.035v16.668h-10.144v-16.668h-11.035v44.367h11.035v-16.668h10.144v16.668h11.035z" fill-rule="evenodd"/>
+   <path d="m57.721 85.848h-19.406l-12.807 7.3931v36.974h19.406l12.807-7.3931zm-21.179 11.035h10.148v22.302h-10.148z" fill-rule="evenodd"/>
+   <path d="m-6.3095 85.847-12.812 7.3974v25.939h-6.3971v11.03h45.017v-11.03h-6.4015v-33.337zm-1.777 11.241h10.148v22.096h-10.148z"/>
   </g>
-  <path id="o" d="m145 130.28v-6.9762h-18.687v-11.833h18.687v-25.558h-25.909v6.8666h18.932v11.82h-18.932v25.68zm31.349 0v-44.367h-7.1605v18.687h-11.588v-18.687h-7.0991v25.558h18.687v18.81z" fill="#fff"/>
+  <path d="m145 130.28v-6.9762h-18.687v-11.833h18.687v-25.558h-25.909v6.8666h18.932v11.82h-18.932v25.68zm31.349 0v-44.367h-7.1605v18.687h-11.588v-18.687h-7.0991v25.558h18.687v18.81z" fill="#fff"/>
  </g>
 </svg>

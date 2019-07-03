@@ -1,6 +1,5 @@
 <!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
 <svg enable-background="new 0 0 283.464 283.464" version="1.1" viewBox="0 0 283.46 283.46" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<g id="b">
 		<polygon points="34.612 34.612 248.85 34.612 248.85 248.85 34.612 248.85" clip-rule="evenodd" fill-rule="evenodd" stroke="#000" stroke-miterlimit="2.6131" stroke-width="1.0001"/>
 			<path d="m114.41 67.812c2.37-1.369 8.698 5.126 14.085 14.457 5.388 9.331 7.849 18.059 5.479 19.426-2.371 1.368-8.697-5.126-14.085-14.458-5.386-9.331-7.848-18.058-5.479-19.425z" clip-rule="evenodd" fill="#E6E7E8" fill-rule="evenodd" stroke="#000" stroke-miterlimit="2.6131" stroke-width=".216"/>
 			<path d="m127.39 62.518c2.643-0.707 7.073 7.203 9.861 17.611 2.79 10.408 2.908 19.475 0.265 20.183-2.643 0.707-7.073-7.202-9.861-17.611-2.788-10.408-2.909-19.474-0.265-20.183z" clip-rule="evenodd" fill="#E6E7E8" fill-rule="evenodd" stroke="#000" stroke-miterlimit="2.6131" stroke-width=".216"/>
@@ -70,5 +69,4 @@
 		<path d="m210.7 181.41h-0.904l-0.126 0.417h-0.81l0.966-2.534h0.863l0.968 2.534h-0.831l-0.126-0.417zm-0.167-0.551-0.284-0.91-0.283 0.91h0.567z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
 		<path d="m215.17 181.82h-0.794v-1.912h-0.62v0.78c0 0.319-0.017 0.556-0.053 0.705-0.034 0.149-0.115 0.261-0.241 0.332-0.127 0.07-0.333 0.106-0.615 0.106-0.085 0-0.186-0.011-0.298-0.028v-0.515h0.12c0.107 0 0.184-0.023 0.227-0.07 0.045-0.046 0.067-0.133 0.067-0.256v-1.677h2.207v2.535z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
 		<polygon points="37.266 37.266 246.2 37.266 246.2 246.2 37.266 246.2" fill="none" stroke="#fff" stroke-miterlimit="2.6131" stroke-width="1.0001"/>
-</g>
 </svg>
