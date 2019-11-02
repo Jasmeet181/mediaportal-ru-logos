@@ -11,12 +11,12 @@
  <path class="st0" d="m633.18 0v107.52h-35.84v-107.52h-308.96l-62.389 100.55v-100.55h-67.366l-45.464 59.734-46.128-59.734h-67.035v212.72h67.035v-113.49l46.128 59.734 45.464-59.07v112.83h69.026l27.876-45.132h71.017v45.132h67.035v-152.32h35.84v152.32h67.035v-152.32h33.849v107.52h102.87v44.8h67.035v-212.72zm-306.63 53.429v53.76h-33.517z" fill="url(#SVGID_1_)" stroke-width="3.3185"/>
  <linearGradient id="SVGID_2_" x1="194.24" x2="232.12" y1="-456.02" y2="72.943" gradientTransform="matrix(3.3185 0 0 -3.3185 -4.646 227.32)" gradientUnits="userSpaceOnUse">
   <stop offset="0"/>
-  <stop stop-color="#F0F0F0" offset="1"/>
+  <stop stop-color="#333" offset="1"/>
  </linearGradient>
  <path class="st1" d="m727.76 0v130.09l67.366-40.486v-89.601z" fill="url(#SVGID_2_)" stroke-width="3.3185"/>
  <linearGradient id="SVGID_3_" x1="235.84" x2="208.15" y1="2.4325" y2="70.679" gradientTransform="matrix(3.3185 0 0 -3.3185 -4.646 227.32)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#F1F1F1" offset="0"/>
-  <stop stop-color="#BDBDBD" offset="1"/>
+  <stop stop-color="#343434" offset="0"/>
+  <stop offset="1"/>
  </linearGradient>
  <path class="st2" d="m799.77 173.56c-1.6593-18.252-16.593-33.185-34.845-34.845-24.557-2.323-45.464 18.252-42.809 42.809 1.6593 18.252 16.593 32.854 34.845 34.845 24.889 2.323 45.464-18.252 42.809-42.809z" fill="url(#SVGID_3_)" stroke-width="3.3185"/>
 </svg>
