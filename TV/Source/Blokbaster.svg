@@ -1,0 +1,46 @@
+<svg width="800" height="303.48" version="1.1" viewBox="0 0 800 303.48" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="SVGID_1_" x1="925.64" x2="925.64" y1="-256.89" y2="1310.1" gradientTransform="matrix(.50758 0 0 .50758 -69.843 -123.65)" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#EEEBE9" offset="0"/>
+	<stop stop-color="#E7E3E0" offset=".016404"/>
+	<stop stop-color="#E3E0DD" offset=".074889"/>
+	<stop stop-color="#D8D5D3" offset=".12"/>
+	<stop stop-color="#C7C5C3" offset=".1607"/>
+	<stop stop-color="#B2B0B0" offset=".1988"/>
+	<stop stop-color="#989999" offset=".2346"/>
+	<stop stop-color="#808485" offset=".264"/>
+	<stop stop-color="#A8A9AA" offset=".3402"/>
+	<stop stop-color="#D7D8DA" offset=".4215"/>
+	<stop stop-color="#D4D5D7" offset=".4261"/>
+	<stop stop-color="#CBCCCE" offset=".4299"/>
+	<stop stop-color="#BCBEBF" offset=".4333"/>
+	<stop stop-color="#B0B3B4" offset=".4354"/>
+	<stop stop-color="#C3C4C5" offset=".445"/>
+	<stop stop-color="#DEDEDF" offset=".4598"/>
+	<stop stop-color="#E9E9E9" offset=".4683"/>
+	<stop stop-color="#DFDFE0" offset=".493"/>
+	<stop stop-color="#C7C8C9" offset=".5346"/>
+	<stop stop-color="#B0B3B4" offset=".5696"/>
+	<stop stop-color="#BEC0C1" offset=".6175"/>
+	<stop stop-color="#CDCFD0" offset=".6789"/>
+	<stop stop-color="#D7D8DA" offset=".7338"/>
+	<stop stop-color="#A4A8AC" offset=".8273"/>
+	<stop stop-color="#999EA3" offset=".8474"/>
+	<stop stop-color="#B3B3B3" offset=".9054"/>
+	<stop stop-color="#DBDADA" offset="1"/>
+</linearGradient>
+<path d="m800 0-97.456 237.4c-16.395 39.997-55.326 66.087-98.572 66.087h-603.97l124.61-303.48z" fill="url(#SVGID_1_)" stroke-width=".50758"/>
+<g transform="matrix(.50758 0 0 .50758 -69.843 -123.65)" fill="#231f20">
+	<path d="m514.5 350.6h132.8l-15.4 38.9h-82l-7 17.7h36.5c37.4 0 51.5 16.4 39.6 46.4-12.4 31.3-43.9 50.1-84.4 50.1h-80.7zm30.8 117.1c10.3 0 18-4.6 21.2-12.7 3.1-7.9-0.8-11.8-11.5-11.8h-26.5l-9.7 24.5z"/>
+	<path d="m833.3 350.6-60.7 153.1h-50.7l44.9-113.1h-35l-7.5 17.7c-25.2 59.1-48.6 98.2-90.8 98.2-6.3 0-13.4-0.9-20.7-2.8l19-41.3c1.8 0.4 3.7 0.7 5.4 0.7 17.1 0 28.4-23 41.3-52.7l25.7-59.7h129.1z"/>
+	<path d="m821.5 427.2c7.5-46.4 49.5-80.1 99.4-80.1s80.9 33.7 73.4 80.1-49.5 80.1-99.4 80.1-80.9-33.7-73.4-80.1zm120.7 0c3.9-23.8-9.1-38.3-28.1-38.3s-36.7 14.4-40.5 38.3c-3.9 23.8 9.1 38.3 28.1 38.3s36.7-14.5 40.5-38.3z"/>
+	<path d="m1124.6 425 14 78.7h-58.2l-7.4-55.3h-14.4l-22 55.3h-51.6l60.7-153.1h51.6l-22.6 57.1h15.7l55.2-57.1h53.8z"/>
+</g>
+<g transform="matrix(.50758 0 0 .50758 -69.843 -123.65)" fill="#231f20">
+	<path d="m427.6 574.2h132.8l-15.4 38.9h-82l-7 17.7h36.5c37.4 0 51.5 16.4 39.6 46.4-12.4 31.3-43.9 50.1-84.4 50.1h-80.7zm30.7 117.1c10.3 0 18-4.6 21.2-12.7 3.1-7.9-0.8-11.8-11.5-11.8h-26.5l-9.7 24.5z"/>
+	<path d="m652 700.7h-58.2l-20.8 26.6h-52.5l127.7-153.1h50.7l6.2 153.1h-53.4zm0.6-37.2 0.4-38.5-30.1 38.5z"/>
+	<path d="m727.5 650.8c12.1-47 56.7-80.1 105.9-80.1 30 0 50.8 10.9 60.8 30.6l-40.1 29.1c-6-11.4-15.1-17.9-28.8-17.9-21.4 0-38.6 15.2-45.7 38.3-7.6 24.8 1.7 38.2 26 38.3 13.8 0.1 26.2-6.6 38.1-17.9l25.1 29.1c-20.2 19.7-46.6 30.6-76.6 30.6-49.2-0.1-76.8-33.1-64.7-80.1z"/>
+	<path d="m1046.6 614.3h-44.8l-44.9 113.1h-50.7l44.8-113.1h-44.8l15.9-40h140.4z"/>
+	<path d="m1167.4 688.4-15.4 38.9h-127.3l60.7-153.1h124.5l-15.4 38.9h-73.7l-7.1 17.9h64.7l-14.8 37.2h-64.7l-8 20.1h76.5z"/>
+	<path d="m1358.1 632c-14.1 35.4-50 57.7-92.7 57.7h-22.1l-14.9 37.6h-51.6l60.7-153.1h73.7c42.7 0 61 22.4 46.9 57.8zm-52 0c4.4-11.2 0.3-17.9-13.9-17.9h-18.8l-14.2 35.9h18.8c14.2-0.1 23.6-6.9 28.1-18z"/>
+</g>
+</svg>
